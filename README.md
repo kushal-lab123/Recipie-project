@@ -21,6 +21,15 @@ The site is designed to be easy to follow for home cooks, with separate sections
 *   **HTML5** - For page structure.
 *   **CSS3** - For styling and layout (implied from the site design).
 *   **GitHub Pages** - For free and easy hosting.
+  ## 📂 Project Structure
+Recipie-project/
+├── index.html          # Main webpage containing all recipes
+├── style.css           # (Assumed) Styles for the website
+├── assets/             # (Assumed) Folder for images or other resources
+└── README.md           # Project documentation
+📝 Future Ideas
+
+Make the design fully responsive for mobile devices.
 
 ## 🚀 How to Use Locally
 
